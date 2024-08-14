@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "autoprefixer": "^10.4.20",
     "axios": "^1.7.4",
     "emoji-picker-react": "^4.11.1",
     "firebase": "^10.12.5",
